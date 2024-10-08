@@ -1,0 +1,46 @@
+h2 {
+    padding-top: 20px; /* Espaçamento interno para o topo*/
+    padding-bottom: 20px; /* Espaçamento interno para baixo*/
+    padding-left: 20px; /* Espaçamento interno para esquerda*/
+    text-align:center; /* Alinha texto no centro*/
+
+}
+.azul {
+    background-color: #9da9df;
+    border: 5px solid #9b0f88
+}
+
+.azul:hover{
+    background-color: #5ecc88;
+}
+
+.vermelho {
+    background-color: #e079c6;
+    padding: 40px;
+    border: 5px solid #981da3;
+}
+
+.marrom {
+    background-color: #bda087;
+}
+
+a {
+    background-color:#5ecc88;
+    color: #FFFFFF;
+    text-decoration: none; /*retira o sublinhado do link*/
+    padding: 10px;
+    border-radius: 5px;
+}   
+    
+a:hover {
+    background-color: #e079c6;
+    padding: 1px;
+}
+
+button {
+    background-color: #5ecc88;
+    padding: 10px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+}
